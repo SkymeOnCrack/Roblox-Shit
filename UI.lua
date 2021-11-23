@@ -2033,9 +2033,9 @@ function library:AddWindow(title, options)
 		end
 	end
 
-	return window_data, Window
+	return window_data, Window, library
 end
-
+--[[
 do -- Example UI
 	local Window = library:AddWindow("Preview", {
 		main_color = Color3.fromRGB(41, 74, 122),
@@ -2113,8 +2113,7 @@ do -- Example UI
 		Folder2:AddLabel("Woo!")
 
 	end
-
 	Tab:Show()
 	library:FormatWindows()
-	return library
 end
+]]
