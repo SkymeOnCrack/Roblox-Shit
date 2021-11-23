@@ -1666,7 +1666,6 @@ function library:AddWindow(title, options)
 							    end
 							end
 							for i,v in pairs(getfenv())do
-							    print(i)
 							    if(not global_env[i])then
 							        table.insert(global_env,i)
 							    end
@@ -1675,9 +1674,6 @@ function library:AddWindow(title, options)
 							    if(not global_env[v.Name])then
 							        table.insert(global_env,v.Name)
 							    end
-							end
-							for i,v in pairs(global_env)do
-							    print(v)
 							end
 							local Highlight = function(string, keywords)
 							    local K = {}
