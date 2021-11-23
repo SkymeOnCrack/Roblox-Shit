@@ -2037,7 +2037,7 @@ function library:AddWindow(title, options)
 end
 return library
 --[[
-do -- Example UI
+do -- Example UI lol
 	local Window = library:AddWindow("Preview", {
 		main_color = Color3.fromRGB(41, 74, 122),
 		min_size = Vector2.new(500, 600),
