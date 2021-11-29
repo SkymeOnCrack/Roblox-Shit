@@ -651,7 +651,7 @@ Options('Crosshair', 'Crosshair', false);
 Options('TextOutline', 'Text Outline', true);
 -- Options('Rainbow', 'Rainbow Mode', false);
 Options('TextSize', 'Text Size', syn and 18 or 14, 10, 24); -- cuz synapse fonts look weird???
-Options('MaxDistance', 'Max Distance', 2500, 100, 25000);
+Options('MaxDistance', 'Max Distance', 2500, 100, 50000);
 Options('RefreshRate', 'Refresh Rate (ms)', 5, 1, 200);
 Options('YOffset', 'Y Offset', 0, -200, 200);
 Options('MenuKey', 'Menu Key', Enum.KeyCode.F4, 1);
