@@ -1,3 +1,9 @@
+--[[ if you remove the kick you are at your own risk of getting banned ]]--
+--[[ be smart and just wait for an update on the gui because you never know whats patched or not. This update will take alot longer since I have school + the gui is basically fucked ]]--
+--[[ the update will come eventually though so just be patient and dont get yourself banned ]]--
+--[[ for more information dm Cypher#2763 ]]--
+game.Players.LocalPlayer:Kick("Due to the recent update, the script is currently patched.")
+
 _hjOd6feEDfbe6jOD, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
