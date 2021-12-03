@@ -147,7 +147,7 @@ Toggle.Position = UDim2.new(0, 5, 0, -2)
 Toggle.Rotation = 90
 Toggle.Size = UDim2.new(0, 20, 0, 20)
 Toggle.ZIndex = 2
-Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=8160648602"
+Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=8159380929"
 
 Base.Name = "Base"
 Base.Parent = Bar
@@ -1459,11 +1459,11 @@ function library:AddWindow(title, options)
 								if dropdown_open then return end
 								dropdown_open = true
 								Resize(box, {Size = UDim2.new(1, 0, 0, len)}, options.tween_time)
-								Resize(indicator, {Rotation = 90}, options.tween_time)
+								Resize(indicator, {Rotation = 0}, options.tween_time)
 							else -- Close
 								dropdown_open = false
 								Resize(box, {Size = UDim2.new(1, 0, 0, 0)}, options.tween_time)
-								Resize(indicator, {Rotation = 0}, options.tween_time)
+								Resize(indicator, {Rotation = -90}, options.tween_time)
 							end
 
 						end)
