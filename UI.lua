@@ -960,6 +960,13 @@ function library:AddWindow(title, options)
 	options.tween_time = 0.1
 
 	local Window = Prefabs:FindFirstChild("Window"):Clone()
+	coroutine.wrap(function()
+		while(wait(.1))do
+			pcall(function()
+				Window.Bar.Toggle.Rotation = 0
+			end)
+		end
+	end)()
 	Window.Parent = Windows
 	Window:FindFirstChild("Title").Text = title
 	Window.Size = UDim2.new(0, options.min_size.X, 0, options.min_size.Y)
