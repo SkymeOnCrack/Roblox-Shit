@@ -1,4 +1,4 @@
---[[ Infinite Money is offically back https://discord.gg/kAHZYbmN4w ]]--
+--[[ Infinite Money is offically back https://discord.gg/ZNU7nAc4NF ]]--
 
 _Ac2EIkAF1gfHm5M6, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
