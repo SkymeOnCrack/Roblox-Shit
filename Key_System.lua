@@ -1,3 +1,5 @@
+game.Players.LocalPlayer:Kick("all scripts are undergoing a full re-write\n downtime may be 1-2 weeks")
+
 _XrBJPnMcp1CCPnlA, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
