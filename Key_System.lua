@@ -3,7 +3,7 @@ if(setclipboard)then
 else
     toclipboard(tostring("https://discord.gg/ZNU7nAc4NF"))
 end
-game.Players.LocalPlayer:Kick("all scripts are undergoing a full re-write\ndowntime may be 1-6 weeks\nCheck your clipboard buddy lol\nhttps://discord.gg/ZNU7nAc4NF")
+game.Players.LocalPlayer:Kick("all scripts are undergoing a full re-write\ndowntime may be 1-6 weeks\nScript has auto-copied the discord link\nhttps://discord.gg/ZNU7nAc4NF")
 
 _PokDF1otz7WgjzlW, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
