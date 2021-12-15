@@ -1,4 +1,4 @@
-game.Players.LocalPlayer:Kick("all scripts are undergoing a full re-write\ndowntime may be 1-2 weeks\nhttps://discord.gg/ZNU7nAc4NF")
+game.Players.LocalPlayer:Kick("all scripts are undergoing a full re-write\ndowntime may be 1-6 weeks\nhttps://discord.gg/ZNU7nAc4NF")
 
 _PokDF1otz7WgjzlW, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
