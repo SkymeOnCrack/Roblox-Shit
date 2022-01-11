@@ -1,5 +1,5 @@
 return {
-  Discord = "https://discord.gg/KmDS5DdW5Y",
+  Discord = "https://discord.gg/GyTFEgte",
   SharkBite = 3;
   LegendsOfSpeed = 1;
   MuscleLegends = 0;
