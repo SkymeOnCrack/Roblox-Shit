@@ -1,3 +1,2 @@
 --[[ updated + fixed + made by Cypher#2763 & NoobSlayer5000#8208 ]]--
-pcall(setclipboard,"https://discord.gg/3WJnU7tCGv")
-game.Players.LocalPlayer:Kick("Script is currently being re-written because it become too broken\n for more information join https://discord.gg/3WJnU7tCGv\nWe have auto copied it for you")
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/f64a4bd9d3da845e4e02c6f0399c839af728dd2b/SharkBite.lua"))()
