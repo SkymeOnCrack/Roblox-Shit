@@ -1,6 +1,6 @@
 return {
   Discord = "https://discord.gg/3WJnU7tCGv",
-  SharkBite = 3,
+  SharkBite = 4,
   LegendsOfSpeed = 1,
   MuscleLegends = 2,
   ganguponpeoplesimulator = 1,
