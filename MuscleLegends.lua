@@ -1,4 +1,4 @@
-local Version = 3
+local Version = 4
 local Versions = loadstring(game:HttpGet("https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/Versions.lua"))()
 if(Versions.MuscleLegends~=Version)then
 	if(setclipboard)then
